@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tristiyadi/goleng-fiber-starter.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/tristiyadi/react-laundry.git
