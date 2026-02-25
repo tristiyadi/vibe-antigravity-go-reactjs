@@ -1,8 +1,8 @@
-# Laundry Web App
+# Vibe Coding Antigravity Web App
 
 A modern, full-stack laundry management system built with Go (Fiber) and React (Vite).
 
-## clone Backend Project
+## clone Projects
 ```bash
 git submodule add https://github.com/tristiyadi/goleng-fiber-starter.git backend
 git submodule add https://github.com/tristiyadi/react-laundry.git frontend
@@ -61,7 +61,7 @@ git submodule update --remote --merge backend # update backend submodule only
 
    ```bash
    git clone <repo-url>
-   cd vibe-coding-go-react-laundry
+   cd vibe-antigravity-go-reactjs
    ```
 
 2. **Backend Setup**
